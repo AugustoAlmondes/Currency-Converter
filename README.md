@@ -83,7 +83,7 @@ currency-converter/
 
 ## 🖥️ Demonstração  
 
-> **Nota**: Inclua aqui imagens ou GIFs do aplicativo funcionando para atrair mais atenção ao projeto.  
+<img href="public\model.png"/>
 
 **Desenvolvido por [Augusto Almondes](https://github.com/AugustoAlmondes)**  
 ```  
