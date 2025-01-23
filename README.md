@@ -83,7 +83,7 @@ currency-converter/
 
 ## 🖥️ Demonstração  
 
-<img href="public\model.png"/>
+![Captura de Tela do Currency Converter](public/model.png)
 
 **Desenvolvido por [Augusto Almondes](https://github.com/AugustoAlmondes)**  
 ```  
