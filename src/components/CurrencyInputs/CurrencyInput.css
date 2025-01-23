@@ -1,0 +1,37 @@
+.container-inputs{
+    width: 180px;
+    display: grid;
+    grid-template-columns: 100px 80px;
+}
+
+input, select{
+    /* background: red; */
+    border: 0;
+    margin: 10px 0;
+    font-weight: bold;
+    /* color: white; */
+}
+
+input{
+    /* padding: 10px; */
+    height: 35px;
+    text-align: center;
+}
+
+select{
+    border: none;
+    border-radius:0 5px 5px 0;
+    height: 35px;
+    width: 80px;
+}
+
+input[type=number]::-webkit-inner-spin-button, 
+input[type=number]::-webkit-outer-spin-button { 
+    -webkit-appearance: none; 
+    margin: 0; 
+}
+
+input[type=number]{
+    -moz-appearance:textfield;
+    appearance:textfield;
+}
